@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="imageDescription">Image Description</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+</resources>
